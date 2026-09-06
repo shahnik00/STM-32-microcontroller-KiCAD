@@ -4875,6 +4875,16 @@
 		)
 		(uuid "5dbce185-2ff3-4c85-8a87-d75835d7d75f")
 	)
+	(label "3.3V"
+		(at 140.97 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a3668d55-98cf-4250-8251-581ca91368d5")
+	)
 	(label "UART_RX"
 		(at 114.3 110.49 180)
 		(effects
@@ -4904,6 +4914,16 @@
 			(justify left bottom)
 		)
 		(uuid "e9bbf3ae-565b-4803-8c40-159001729994")
+	)
+	(label "3.3V"
+		(at 120.65 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f368d110-51cf-41e1-9d29-2a6ab8996887")
 	)
 	(label "I2C2_SCL"
 		(at 114.3 118.11 180)
